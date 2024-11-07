@@ -1,0 +1,12 @@
+{
+  "name": "pw-pure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {}
+}
