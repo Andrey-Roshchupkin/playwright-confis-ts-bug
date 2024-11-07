@@ -37,5 +37,5 @@ TypeScript should recognize custom properties in the imported config object.
 
 ### Versions
 
-Playwright version: 1.48.2
-TypeScript version: 5.6.3
+- Playwright version: 1.48.2
+- TypeScript version: 5.6.3
